@@ -1,3 +1,3 @@
-# Kitty-Coin-Website
+# home
 Website for Kitty Coin
 Meme Token. Deflationary. Experimental. Fun.
